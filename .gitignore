@@ -1,0 +1,12 @@
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*~
+\#*\#
+*-safe.py
+plan.txt
+README-orig.md
+*~
+check_history.sh
